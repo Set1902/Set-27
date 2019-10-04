@@ -189,7 +189,7 @@ namespace ConsoleApplication1  //подключение пространства
                     }
                 }
                 catch//если введено неправильное значение
-            
+
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Неправильное значение");
@@ -197,8 +197,8 @@ namespace ConsoleApplication1  //подключение пространства
                     System.Environment.Exit(0);
                 }
             }
-         
+
         }
-      
-        }
+
+    }
 }
