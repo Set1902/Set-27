@@ -1,15 +1,15 @@
-﻿using System;  //подключённая библиотека
-using System.Collections.Generic;  //подключённая библиотека
-using System.Linq;  //подключённая библиотека
-using System.Text;  //подключённая библиотека
-using System.Threading.Tasks;  //подключённая библиотека
+﻿using System;  
+using System.Collections.Generic;  
+using System.Linq;  
+using System.Text;  
+using System.Threading.Tasks;  
 
-namespace ConsoleApplication1  //подключение пространства имён
+namespace ConsoleApplication1  
 {
-    class Program  //класс
+    class Program  
     {
 
-        static void Main(string[] args)  //метод класса
+        static void Main(string[] args)  
         {
             Console.WriteLine("Ковалев Сергей ИУ5-32Б");
             double a, b, c, D, x1, x2, x3, x4, t1, t2;
