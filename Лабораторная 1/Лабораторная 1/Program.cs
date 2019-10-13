@@ -175,7 +175,7 @@ namespace ConsoleApplication1
                     Console.Write("Дескриминант =  ");
                     Console.WriteLine(D);
                     Console.Write("x1 =  ");
-                    Console.WriteLine(x1);
+                    Console.WriteLine(x1); 
                     Console.Write("x2 =  ");
                     Console.WriteLine(x2);
                     Console.ReadKey();
