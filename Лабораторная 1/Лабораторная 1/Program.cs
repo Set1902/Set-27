@@ -40,7 +40,7 @@ namespace ConsoleApplication1
                     {
                         x1 = 0;
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.Write("x1 =  ");
+                        Console.Write("x =  ");
                         Console.WriteLine(x1);
                         Console.ReadKey();
                         System.Environment.Exit(0);
@@ -72,7 +72,7 @@ namespace ConsoleApplication1
                     {
                         x1 = 0;
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.Write("x1 =  ");
+                        Console.Write("x =  ");
                         Console.WriteLine(x1);
                         Console.ReadKey();
                         System.Environment.Exit(0);
@@ -113,8 +113,10 @@ namespace ConsoleApplication1
                     c = -1 * (b / a);
                     if (c < 0)
                     {
+                        x1 = 0;
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine("Нет корней");
+                        Console.Write("x =  ");
+                        Console.WriteLine(x1);
                         Console.ReadKey();
                         System.Environment.Exit(0);
                     }
@@ -122,7 +124,7 @@ namespace ConsoleApplication1
                     {
                         x1 = 0;
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.Write("x1 =  ");
+                        Console.Write("x =  ");
                         Console.WriteLine(x1);
                         Console.ReadKey();
                         System.Environment.Exit(0);
