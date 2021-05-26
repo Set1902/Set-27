@@ -1,0 +1,9 @@
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\bin\Debug\ComForm.exe.config
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\bin\Debug\ComForm.exe
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\bin\Debug\ComForm.pdb
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\obj\Debug\ComForm.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\obj\Debug\ComForm.Form1.resources
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\obj\Debug\ComForm.Properties.Resources.resources
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\obj\Debug\ComForm.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\obj\Debug\ComForm.exe
+C:\Users\Андрей\Desktop\КурсСТ\ComProgram\ComForm\obj\Debug\ComForm.pdb
